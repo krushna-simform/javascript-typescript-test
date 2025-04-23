@@ -1,4 +1,4 @@
-# JavaScript TypeScript Test
+# JavaScript TypeScript Test (SET 2)
 
 ## JavaScript
 
